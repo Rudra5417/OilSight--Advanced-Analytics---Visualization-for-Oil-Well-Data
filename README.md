@@ -30,11 +30,13 @@ Welcome to **OilSight**! This project is your one-stop solution for robust extra
 1. **Prerequisites**: Ensure you have Python, Apache, and required libraries installed.
 2. **Clone the Repository**:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Rudra5417/OilSight--Advanced-Analytics---Visualization-for-Oil-Well-Data.git
+
    ```
 3. **Navigate to Project Directory**:
    ```
-   cd OilSight
+   cd OilSight--Advanced-Analytics---Visualization-for-Oil-Well-Data
+
    ```
 4. **Install Dependencies**:
    ```
