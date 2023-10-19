@@ -1,6 +1,3 @@
-# OilSight--Advanced-Analytics---Visualization-for-Oil-Well-Data
-Oil Well Data Analytics: An advanced toolkit designed for robust extraction and preprocessing of oil well data from diverse PDFs and digital platforms. This repo showcases Python-driven data extraction methods and an Apache-hosted web interface that elegantly visualizes oil well locations via integrated mapping systems.
-
 # OilSight: Advanced Analytics & Visualization for Oil Well Data
 
 Welcome to **OilSight**! This project is your one-stop solution for robust extraction, preprocessing, and visualization of oil well data sourced from diverse PDFs and digital platforms.
